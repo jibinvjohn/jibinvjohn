@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jibinvjohn
+- 👋 Hi, I’m Jibin John
 - 👀 I’m interested in Javascript and anything/everything around it.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Javascript, Typescript, Angular etc.
-- 📫 Reach me at jibin_1@hotmail.com
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on Javascript, Typescript, React, Angular etc.
+- 📫 Reach me at [Linkedin](https://www.linkedin.com/in/jibin-john-429a4846/)
 
 <!---
 jibinvjohn/jibinvjohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
