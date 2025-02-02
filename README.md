@@ -3,7 +3,7 @@
 Languages: JavaScript, TypeScript <br/>
 Frontend: React, Next.js, Angular<br/>
 Backend: Node.js, Express<br/>
-Cloud: AWS (Lambda, S3, DynamoDB, etc.), Azure(Just Started)<br/>
+Cloud: AWS (Lambda, S3, DynamoDB, etc.), Azure<br/>
 With a deep understanding of both frontend and backend technologies, I strive to create seamless user experiences and robust server-side solutions. I'm always eager to learn new technologies and take on challenging projects.<br/>
 
 🌟 Skills & Expertise:
@@ -15,8 +15,9 @@ Leading and mentoring development teams
 
 🚀 Current Projects/Learnings:
 
-Finding out upper limits of Next JS framework<br/>
-Kubernetes - CKAD Certification
+Next JS - SSR/Edge Computing<br/>
+Kubernetes - CKAD Certification<br/>
+AIv - LLM, Chatbots, Agents
 
 📫 Let's Connect:
 
